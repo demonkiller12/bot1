@@ -1,0 +1,9 @@
+{
+	"ip":"DemonKiller12.aternos.me",
+	"port": 19515,
+	"name": "dafk1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 123456",
+	"login-cmd":"/login 123456"
+}
